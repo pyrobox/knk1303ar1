@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "project_KNK1303AR1")(type "Legacy")(uri "${KIPRJMOD}/project_KNK1303AR1.lib")(options "")(descr ""))
+  (lib (name "project_KNK1303AR1-rescue")(type "KiCad")(uri "${KIPRJMOD}/project_KNK1303AR1-rescue.kicad_sym")(options "")(descr ""))
+)
